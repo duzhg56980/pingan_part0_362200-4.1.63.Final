@@ -1,0 +1,7 @@
+import io.netty.channel.epoll.Native;
+public class FunctionUse26643 {
+public void funcUse() {
+Native native = new Native();
+native.isSupportingUdpSegment();
+}
+}

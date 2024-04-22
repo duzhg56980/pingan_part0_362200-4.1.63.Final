@@ -1,0 +1,7 @@
+import io.netty.channel.group.DefaultChannelGroup;
+public class FunctionUse25083 {
+public void funcUse() {
+DefaultChannelGroup defaultchannelgroup = new DefaultChannelGroup();
+defaultchannelgroup.find(null);
+}
+}
